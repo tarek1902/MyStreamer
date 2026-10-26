@@ -2,13 +2,13 @@
 
 # =========================================================================
 # One-liner execution command:
-# wget -qO - https://raw.githubusercontent.com/popking159/MyStreamer/refs/heads/main/myinstaller.sh | /bin/sh
+# wget -qO - https://raw.githubusercontent.com/tarek1902/MyStreamer/refs/heads/main/myinstaller.sh | /bin/sh
 # =========================================================================
 
 PLUGIN_NAME="MyStreamer"
 PKG_BASE="enigma2-plugin-extensions-mystreamer"
 VERSION="1.0.0"
-USERNAME="popking159"
+USERNAME="tarek1902"
 REPO="MyStreamer"
 
 # Terminal Colors
