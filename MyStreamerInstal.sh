@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/s
 
 # color
 RED='\033[0;31m'
@@ -13,7 +13,7 @@ NC='\033[0m' # No Color
 # Show title
 echo -e "${CYAN}"
 echo "##################################################"
-echo "#    IPAudioPro Installation Script    #"
+echo "#    MyStreamer Installation Script    #"
 echo "#                   Version 00                  #"
 echo "##################################################"
 echo -e "${NC}"
